@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Skills in Progress:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,react,nodejs,linkedin,discord,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,react,nodejs,linkedin,discord,vim,unity)](https://skillicons.dev)
