@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BuzOkcu
+- 👋 Hi, I’m Soner Karabulut
 - 👀 I’m interested in C, Frontend , unity.
 - 🌱 I’m currently learning C, Frontend , unity.
 - 💞️ I’m looking to collaborate on job
